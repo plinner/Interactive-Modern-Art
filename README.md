@@ -20,3 +20,8 @@ I did run into some issues throughout the course of developing my project. I dis
 
 
 Overall I am proud of the work that I did for this project, and the final product. I feel that with some development and time, this could turn into something that I might implement in future museums. This is a project that could be done in a kids program, and it could be applied to a limitless number of artworks. 
+
+
+Images and design prototype for interactive modern art project interpretation and supply list included.
+All photos, videos, and documents in this repository are copyrighted under CC-BY license.
+Copyright Paige Linner, 2017.
